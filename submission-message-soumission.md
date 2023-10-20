@@ -27,3 +27,7 @@ https://github.com/jsmarier-courses/projet-1-daphlarose
 13. J'ai modifié la couleur du fond du corps en beige pâle (bisque)
 14. J'ai modifié la couleur du fond du contenu de page en beige pâle (bisque) pour que ce soit de la même couleur que le fond du corps.
 15. J'ai ajouté une déclaration de taille de police au menu flotteur et je l'ai fixé à 22px. Ainsi, lorsque la souris passe sur les choix de pages, ils grandissent un peu. 
+
+https://jsmarier-courses.github.io/projet-1-daphlarose/ 
+
+nom utilisateur: daphlarose
